@@ -1,5 +1,5 @@
 class Solution:
-    def minBitwiseArray(self, nums: List[int]) -> List[int]:
+    def minBitwiseArray(self, nums):
         res = []
         for n in nums:
             if n & 1:
