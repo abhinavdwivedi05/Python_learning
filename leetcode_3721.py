@@ -24,4 +24,4 @@ class Solution:
                 if s == 0:
                     result = max(result, r - l + 1)
 
-        return result
+        return resultl
