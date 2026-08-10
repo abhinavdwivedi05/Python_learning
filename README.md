@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -124,4 +126,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/abhinavdwivedi05/Leetcode_codewithabhinav/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
